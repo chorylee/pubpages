@@ -5,6 +5,7 @@
     "home_page_url": "https://qiantek.com",
     "feed_url": "https://qiantek.com/feed.json",
     "user_comment": "",
+    "icon": "https://qiantek.com/media/website/1.png",
     "author": {
         "name": "QianTek Studio"
     },
